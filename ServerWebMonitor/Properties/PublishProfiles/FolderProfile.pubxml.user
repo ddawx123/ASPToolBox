@@ -11,7 +11,7 @@
   </PropertyGroup>
   <ItemGroup>
     <File Include="Authority.aspx">
-      <publishTime>09/19/2017 18:38:06</publishTime>
+      <publishTime>09/20/2017 14:55:41</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>03/20/2017 20:03:12</publishTime>
@@ -20,10 +20,10 @@
       <publishTime>03/20/2017 20:03:12</publishTime>
     </File>
     <File Include="bin/ServerWebMonitor.dll">
-      <publishTime>09/20/2017 09:48:35</publishTime>
+      <publishTime>09/20/2017 15:11:27</publishTime>
     </File>
     <File Include="bin/ServerWebMonitor.pdb">
-      <publishTime>09/20/2017 09:48:35</publishTime>
+      <publishTime>09/20/2017 15:11:27</publishTime>
     </File>
     <File Include="Default.aspx">
       <publishTime>09/19/2017 19:36:01</publishTime>
@@ -35,7 +35,7 @@
       <publishTime>09/19/2017 12:45:38</publishTime>
     </File>
     <File Include="httpclient.aspx">
-      <publishTime>09/19/2017 19:07:38</publishTime>
+      <publishTime>09/20/2017 15:11:11</publishTime>
     </File>
     <File Include="icmp.aspx">
       <publishTime>09/20/2017 09:45:40</publishTime>
@@ -53,7 +53,31 @@
       <publishTime>09/19/2017 19:01:36</publishTime>
     </File>
     <File Include="SSOLogin.aspx">
-      <publishTime>09/19/2017 18:38:07</publishTime>
+      <publishTime>09/20/2017 14:55:22</publishTime>
+    </File>
+    <File Include="static/css/bootstrap.min.css">
+      <publishTime>09/20/2017 15:07:03</publishTime>
+    </File>
+    <File Include="static/css/ie10-viewport-bug-workaround.css">
+      <publishTime>09/20/2017 15:07:03</publishTime>
+    </File>
+    <File Include="static/css/signin.css">
+      <publishTime>09/20/2017 15:07:04</publishTime>
+    </File>
+    <File Include="static/js/html5shiv.min.js">
+      <publishTime>09/20/2017 15:07:04</publishTime>
+    </File>
+    <File Include="static/js/ie-emulation-modes-warning.js">
+      <publishTime>09/20/2017 15:07:04</publishTime>
+    </File>
+    <File Include="static/js/ie10-viewport-bug-workaround.js">
+      <publishTime>09/20/2017 15:07:04</publishTime>
+    </File>
+    <File Include="static/js/ie8-responsive-file-warning.js">
+      <publishTime>09/20/2017 15:07:04</publishTime>
+    </File>
+    <File Include="static/js/respond.min.js">
+      <publishTime>09/20/2017 15:07:04</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>09/20/2017 09:48:35</publishTime>
