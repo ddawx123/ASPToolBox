@@ -1,2 +1,3 @@
-# ASPToolBox
-ASP.NET Server ToolBox
+# ASP.NET服务器工具箱
+这是一个基于ASP.NET 2.0 （CSharp）开发的服务器工具箱
+用户身份认证已经与单点登录平台打通！

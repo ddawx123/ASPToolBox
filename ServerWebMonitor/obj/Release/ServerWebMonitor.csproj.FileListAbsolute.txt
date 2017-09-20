@@ -1,0 +1,7 @@
+C:\Users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\ServerWebMonitor.dll.config
+C:\Users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\ServerWebMonitor.dll
+C:\Users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\ServerWebMonitor.pdb
+C:\Users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\Newtonsoft.Json.pdb
+C:\Users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\Newtonsoft.Json.xml
+C:\Users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\obj\Release\ServerWebMonitor.dll
+C:\Users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\obj\Release\ServerWebMonitor.pdb

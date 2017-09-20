@@ -1,0 +1,8 @@
+c:\users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\ServerWebMonitor.dll.config
+c:\users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\ServerWebMonitor.dll
+c:\users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\ServerWebMonitor.pdb
+c:\users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\obj\Debug\ServerWebMonitor.csprojResolveAssemblyReference.cache
+c:\users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\obj\Debug\ServerWebMonitor.dll
+c:\users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\obj\Debug\ServerWebMonitor.pdb
+c:\users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\Newtonsoft.Json.pdb
+c:\users\ddawx\documents\visual studio 2017\Projects\ServerWebMonitor\ServerWebMonitor\bin\Newtonsoft.Json.xml
